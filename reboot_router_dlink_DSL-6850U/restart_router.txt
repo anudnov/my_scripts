@@ -1,4 +1,0 @@
-Admin
-PASSWORD
-reboot
-exit
